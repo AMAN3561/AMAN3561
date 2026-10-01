@@ -40,9 +40,9 @@
 
 ### 📌 Featured Projects
 
-### 🏗️ [Low-Level Design](https://github.com/AMAN3561/low-level-design)
-C++ implementations of SOLID principles, design patterns and practical LLD problems.
-- [**Learning Platform Backend**](https://github.com/AMAN3561/Learning_Platform_backend) — REST API with authentication, course management, OTP verification, MongoDB, Node.js and Express.
+- [**Low-Level Design**](https://github.com/AMAN3561/low-level-design)
+  C++ implementations of SOLID principles, design patterns and practical LLD problems.
+- [**Learning Platform Backend**](https://github.com/AMAN3561/Learning_Platform_backend) — REST API with authentication, course management, OTP   verification, MongoDB, Node.js and Express.
 - [**LeetCode Solutions**](https://github.com/AMAN3561/LeetCode) — DSA solutions in C++ covering graphs, trees, DP, stacks and more.
 - [**AI Trading Copilot**](https://github.com/AMAN3561/ai-trading-copilot) — Python-based AI assistant for financial analysis.
 
