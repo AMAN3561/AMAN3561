@@ -1,11 +1,12 @@
 # Hi, I'm Aman Khan 👋
 
-### Software Engineering Student | Backend Developer
+### Software Engineering Student | Backend Developer | C++ | Node.js
 
-💻 Building backend applications with Node.js, Express & MongoDB  
-🧠 Solving DSA problems in C++  
-🌱 Currently learning System Design and full-stack development  
-🚀 Interested in Backend Engineering, AI and scalable systems
+💻 Building backend applications with Node.js, Express.js & MongoDB  
+🧠 Solving Data Structures & Algorithms problems in C++  
+🏗️ Learning Low-Level Design, SOLID Principles & Design Patterns  
+🌱 Currently exploring System Design and Backend Engineering  
+🚀 Interested in Software Engineering, Backend Development & AI  
 
 ---
 
@@ -29,8 +30,18 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
+### Core CS
+`DSA` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks`
+
+### Software Design
+`Low-Level Design` • `SOLID Principles` • `Design Patterns`
+
+---
+
 ### 📌 Featured Projects
 
+### 🏗️ [Low-Level Design](https://github.com/AMAN3561/low-level-design)
+C++ implementations of SOLID principles, design patterns and practical LLD problems.
 - [**Learning Platform Backend**](https://github.com/AMAN3561/Learning_Platform_backend) — REST API with authentication, course management, OTP verification, MongoDB, Node.js and Express.
 - [**LeetCode Solutions**](https://github.com/AMAN3561/LeetCode) — DSA solutions in C++ covering graphs, trees, DP, stacks and more.
 - [**AI Trading Copilot**](https://github.com/AMAN3561/ai-trading-copilot) — Python-based AI assistant for financial analysis.
