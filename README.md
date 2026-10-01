@@ -20,9 +20,9 @@
 
 ### 📌 Featured Projects
 
-- [**Learning Platform Backend**]([YOUR_REPO_LINK](https://github.com/AMAN3561/Learning_Platform_backend)) — REST API with authentication, course management, OTP verification, MongoDB, Node.js and Express.
-- [**LeetCode Solutions**]([YOUR_REPO_LINK](https://github.com/AMAN3561/LeetCode)) — DSA solutions in C++ covering graphs, trees, DP, stacks and more.
-- [**AI Trading Copilot**]([YOUR_REPO_LINK](https://github.com/AMAN3561/ai-trading-copilot)) — Python-based AI assistant for financial analysis.
+- [**Learning Platform Backend**](https://github.com/AMAN3561/Learning_Platform_backend) — REST API with authentication, course management, OTP verification, MongoDB, Node.js and Express.
+- [**LeetCode Solutions**](https://github.com/AMAN3561/LeetCode) — DSA solutions in C++ covering graphs, trees, DP, stacks and more.
+- [**AI Trading Copilot**](https://github.com/AMAN3561/ai-trading-copilot) — Python-based AI assistant for financial analysis.
 
 ---
 
