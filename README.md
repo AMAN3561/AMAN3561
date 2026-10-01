@@ -1,27 +1,28 @@
 # Hi, I'm Aman Khan 👋
 
-### Aspiring Software Engineer | Backend Developer | C++ | JavaScript | Python
+### Software Engineering Student | Backend Developer
 
-- 🎓 Student passionate about software development
-- 🌱 Currently learning: MERN Stack, DSA, System Design
-- 💻 Interested in: Web Development, AI, and Problem Solving
-- 🚀 Building projects to improve real-world skills
-- 📫 Reach me at: amanx11n@gmail.com
+💻 Building backend applications with Node.js, Express & MongoDB  
+🧠 Solving DSA problems in C++  
+🌱 Currently learning System Design and full-stack development  
+🚀 Interested in Backend Engineering, AI and scalable systems
 
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** C++, JavaScript, Python
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, SQL
-- **Tools:** Git, GitHub, VS Code
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
-## 📌 Featured Projects
-- **Learning Platform Backend** – Backend for a learning platform
-- **LeetCode Solutions** – My DSA journey and coding practice
-- **AI Trading Copilot** – AI-based project using Python
+### 📌 Featured Projects
+
+- [**Learning Platform Backend**]([YOUR_REPO_LINK](https://github.com/AMAN3561/Learning_Platform_backend)) — REST API with authentication, course management, OTP verification, MongoDB, Node.js and Express.
+- [**LeetCode Solutions**]([YOUR_REPO_LINK](https://github.com/AMAN3561/LeetCode)) — DSA solutions in C++ covering graphs, trees, DP, stacks and more.
+- [**AI Trading Copilot**]([YOUR_REPO_LINK](https://github.com/AMAN3561/ai-trading-copilot)) — Python-based AI assistant for financial analysis.
 
 ---
 
